@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|solutionrelative:Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|solutionrelative:Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B03FE55-BB4F-406E-B9BB-CFF3C6DF0FCE}|Project2.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Map.cpp",
+              "RelativeDocumentMoniker": "Map.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Map.cpp",
+              "RelativeToolTip": "Map.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-10T03:11:42.074Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Map.h",
               "ToolTip": "C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Map.h",
               "RelativeToolTip": "Map.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-10T02:39:38.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\SaturDayRepository\\Project2\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
