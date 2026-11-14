@@ -22,7 +22,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 
 	int previousTime = GetNowCount();
 
-	while (ProcessMessage()==0&&CheckHitKey(KEY_INPUT_ESCAPE))
+	while (ProcessMessage()==0&&CheckHitKey(KEY_INPUT_ESCAPE)==0)
 	{
 		int currentTime = GetNowCount();
 
